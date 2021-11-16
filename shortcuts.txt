@@ -1,0 +1,12 @@
+Fold All: CTRL+K, CTRL+0 (zero)
+
+Fold Level [n]: CTRL+K, CTRL+[n]*
+
+Unfold All: CTRL+K, CTRL+J
+
+Fold Region: CTRL+K, CTRL+[
+
+Unfold Region: CTRL+K, CTRL+]
+
+Format Document (Ctrl+Shift+I) - Format the entire active file.
+Format Selection (Ctrl+K Ctrl+F) - Format the selected text.

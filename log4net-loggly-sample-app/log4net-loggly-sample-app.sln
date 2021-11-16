@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "log4net-loggly-sample-app", "log4net-loggly-sample-app.csproj", "{03C04317-287B-44D3-8229-0D767659CBF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03C04317-287B-44D3-8229-0D767659CBF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C04317-287B-44D3-8229-0D767659CBF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C04317-287B-44D3-8229-0D767659CBF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C04317-287B-44D3-8229-0D767659CBF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02FA9355-D155-48B9-A325-F0BB08903FD7}
+	EndGlobalSection
+EndGlobal
